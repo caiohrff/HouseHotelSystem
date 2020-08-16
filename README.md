@@ -1,6 +1,6 @@
 # HouseHotelSystem
 This project is reference to my TCC at ETEC Ruth Cardoso
-Note que precisa necessáriamente de uma base de dados, essa abaixo deve ser o suficiente, pegue CPF para cadastro e teste
+- Note que precisa necessáriamente de uma base de dados, essa abaixo deve ser o suficiente, pegue CPF para cadastro e teste
 ---------------------------------------------------------------------------------------------------------------------------
 
 
